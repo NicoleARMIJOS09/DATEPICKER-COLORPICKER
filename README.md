@@ -11,6 +11,7 @@ Yo realize todas y cadas una de las importaciones necesarias para que el codigo 
 
 ### DatePicker
 Es un control que le sirve para que el usuario pueda agregar una fecha de su eleccion, ya sea escrita o eligiendola por medio de el calendario ya existente.
+
 ![image](https://github.com/NicoleARMIJOS09/DATEPICKER-COLORPICKER/assets/168577369/1b12cf1b-8650-4682-813c-c4e35e9a8396)
 
 
