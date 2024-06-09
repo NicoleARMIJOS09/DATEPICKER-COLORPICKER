@@ -17,11 +17,13 @@ Es un control que le sirve para que el usuario pueda agregar una fecha de su ele
 
 ### ColorPicker
 Este es un control el cual nos ayuda a seleccionar un color, ya sea desde una paleta de colores estandares o defeninir uno propio.
+
 ![image](https://github.com/NicoleARMIJOS09/DATEPICKER-COLORPICKER/assets/168577369/28311855-ac4b-4649-8aad-04627b355d5d)
 
 
 ### Button
 Este lo use para agregar un boton el cual tendra la tarea de confirmacion, cuando sea presionado este mostrara en las mismas pestañas el color y la fecha elegida
+
 ![image](https://github.com/NicoleARMIJOS09/DATEPICKER-COLORPICKER/assets/168577369/40b4e55a-e9b4-4d71-890d-6310bf563ff2)
 
 ### Vbox
